@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Yo1_Requirelogin>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Yo1_Requirelogin>
+    </modules>
+</config>
